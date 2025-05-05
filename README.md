@@ -31,7 +31,7 @@ A Streamlit-based web application to automate the analysis of student academic p
 
 st-result-analyse/
 
-├── app.py   # Main Streamlit application
+├── st_result.py   # Main Streamlit application
 
 ├── requirements.txt    # Python dependencies
 
