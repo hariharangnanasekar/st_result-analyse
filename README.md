@@ -30,6 +30,9 @@ A Streamlit-based web application to automate the analysis of student academic p
 ## Project Structure
 
 st-result-analyse/
-├── app.py              # Main Streamlit application
+
+├── app.py   # Main Streamlit application
+
 ├── requirements.txt    # Python dependencies
+
 └── README.md           # Project documentation
